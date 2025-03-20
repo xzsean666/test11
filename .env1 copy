@@ -1,0 +1,12 @@
+
+# Production build
+NEXT_PUBLIC_IS_PRODUCTION=true
+
+NEXT_PUBLIC_DEFAULT_MAINNET_CHAIN_ID=592
+NEXT_UNSAFE_ALLOW_UNSAFE_EVAL=true
+
+# ASTAR RPC节点
+NEXT_PUBLIC_ASTAR_RPC_URL=https://astar.api.onfinality.io/public
+
+
+
